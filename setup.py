@@ -8,5 +8,4 @@ setup(name='tele_bot',
       author_email='rocailler@gmail.com',
       url='https://github.com/rocailler/tele_bot',
       keywords='telegram, send, message',
-      packages=['tele_bot'],
      )
